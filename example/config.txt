@@ -1,0 +1,2 @@
+Prefix plugins/MinPD/example/
+Plugin MinPD inputfile parameters.txt outputfile output
