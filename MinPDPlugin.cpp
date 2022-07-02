@@ -10,7 +10,7 @@
 #include <string.h>
 #include <math.h>
 
-#include "MinPD.h"
+#include "MinPDPlugin.h"
 #include "PluginManager.h"
 #include "PluginProxy.h"
 #include "MinPDPlugin.h"
